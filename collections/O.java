@@ -5,7 +5,7 @@ import LittleAlchemyCombinations.AbstractAlpha;
 import LittleAlchemyCombinations.*;
 public class O extends AbstractAlpha{
     public void alpha() {
-        System.out.println("Lake\nLamp\nLand\nLaptop\nLasso\nLava\nLava Lamp\nLawn\nLawn Mower\nLeaf\nLeather\nLegend\nLens\nLetter\nLibrarian\nLibrary\nLife\nLight\nLight Bulb\nLight Sword\nLighthouse\nLightning\nLion\nLiquid\nLittle Alchemy\nLivestock\nLizard\nLog Cabin\nLove\nLumberjack");
+        System.out.println("Oasis\nObsidian\nOcean\nOil\nOmelette\nOptical Fiber\nOrchard\nOre\nOrganic Matter\nOrigami\nOstrich\nOwl\nOxygen\nOzone");
         Scanner input = new Scanner(System.in);
         System.out.println("Enter the word: ");
         String o = input.nextLine();
