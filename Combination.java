@@ -772,6 +772,9 @@ public class Combination {
     public static void frozenyogurt() {
         System.out.println("cold+yogurt\nice+yogurt");
     }
+    public static void fruit(){
+        System.out.println("time+flower\nwater+flower\nrain+flower\ntree+flower\ntree+farmer\nfarmer+orchard");
+    }
 
     public static void fruittree() {
         System.out.println("tree+fruit\nwood+fruit\nplant+fruit");
@@ -1893,7 +1896,7 @@ public class Combination {
         System.out.println("planet+planet\nsun+planet\nsun+container\nplanet+container\nMars+container\nMercury+container\nVenus+container\nJupiter+container\nSaturn+container");
     }
 
-    public static void soild() {
+    public static void solid() {
         System.out.println("earth+idea\nearth+science");
     }
 
